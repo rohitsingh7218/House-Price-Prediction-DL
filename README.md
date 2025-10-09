@@ -1,5 +1,5 @@
 # House-Price-Prediction-DL
-A simple deep learning project predicting house prices using TensorFlow.
+A simple deep learning project predicting house prices using TensorFlow. ml and deep learning model 
 
 # House Price Prediction - Deep Learning Project
 
