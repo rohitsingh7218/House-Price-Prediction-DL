@@ -7,3 +7,4 @@ This project uses a simple neural network to predict house prices using a synthe
 - Libraries: TensorFlow, NumPy, Matplotlib
 - Features: House size
 - Target: House price
+- target - real problem 
