@@ -8,3 +8,4 @@ This project uses a simple neural network to predict house prices using a synthe
 - Features: House size
 - Target: House price
 - target - real problem 
+In the Souurounding 
